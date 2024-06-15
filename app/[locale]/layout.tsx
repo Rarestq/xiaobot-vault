@@ -7,7 +7,8 @@ import './globals.css';
 
 import { Suspense } from 'react';
 
-import SeoScript from '@/components/seo/SeoScript';
+// import GoogleAdScript from '@/components/ad/GoogleAdScript';
+// import SeoScript from '@/components/seo/SeoScript';
 
 import Loading from './loading';
 
@@ -38,7 +39,7 @@ export default function RootLayout({
           <Navigation />
           <Suspense fallback={<Loading />}>{children}</Suspense>
         </NextIntlClientProvider>
-        <SeoScript />
+        {/* <SeoScript /> */}
         {/* <GoogleAdScript /> */}
       </body>
     </html>
