@@ -22,7 +22,7 @@ export type WebNavigationDetailData = {
   url: string;
   websiteData: string;
 };
-
+// TODO by tibidabo: change dataList with xiaobot vault recommendation
 export const dataList: WebNavigationListRow[] = [
   {
     id: '1792434701288771585',
@@ -256,6 +256,7 @@ export const dataList: WebNavigationListRow[] = [
   },
 ];
 
+// TODO by tibidabo: update detail data
 export const detailList: WebNavigationDetailData[] = [
   {
     name: 'aigirl-best',
