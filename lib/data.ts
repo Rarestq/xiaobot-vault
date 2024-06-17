@@ -36,13 +36,13 @@ export const dataList: WebNavigationListRow[] = [
   },
   {
     id: '1792107164427784194',
-    name: 'chatgpt-mac',
-    title: 'ChatGPT for MacOS: Your AI Assistant for Enhanced Productivity',
+    name: 'huang-zhao-ai-daily-season-4',
+    title: '黄钊的AI日报·第四季',
     content:
-      "ChatGPT for MacOS: Your AI Assistant for Enhanced Productivity. It's releaseb by OpenAI and can be installed in the MacOS.",
-    url: 'https://apps.apple.com/us/app/chatgpt/id6448311069',
-    imageUrl: 'https://img.artiversehub.ai/2024/05/19/d4cec43d06f04c6b95aec4b9e9a117ce.png',
-    thumbnailUrl: 'https://img.artiversehub.ai/2024/05/19/800316e0dcb04269b381f82c58251307.png',
+      '1、每天5条AI内容点：不是新闻汇总，而是站在12年AI产品经理视角，提炼干货认知、展示“what I see”；取代多数信息渠道、节省时间、获得认知差。2、已在社群“AI产品经理大本营”发布14个月，用户口碑极佳。3、适合人群：CEO/CXO/VP、产品总监/PM、技术/投资/媒体人、AI/互联网同行、老师/学生。4、日更3个月（6月13日~9月13日），正价90元、早鸟价仅60元，截至19号晚',
+    url: 'https://xiaobot.net/p/ai04?refer=b62e98f7-c8dd-4eda-9c6f-5f397e029644',
+    imageUrl: 'https://static.xiaobot.net/paper/2024-06-02/38108/09778fb98b278062a874de2d0ccb1b3b.png',
+    thumbnailUrl: 'https://static.xiaobot.net/paper/2024-06-02/38108/09778fb98b278062a874de2d0ccb1b3b.png',
   },
   {
     id: '1791403586373455873',
@@ -295,7 +295,8 @@ export const detailList: WebNavigationDetailData[] = [
   {
     name: 'ai-earnings-abroad',
     title: 'AI 海外赚钱',
-    detail: '# AI 海外赚钱\n这里可以让完全没有任何基础的同学，无需学习额外任何知识，即可实现利用AI技术出海赚钱。',
+    detail:
+      '# AI海外赚钱\n\n介绍 \n作者：静水流深，国外赚美元的奠基人，上个世纪就开始出海赚美元，雷军的师弟，如今投入AI领域，帮助大家利用AI技术，个体出海赚美元。\n\n## 详细信息\n\n1. **原价9999元，现在限时只需要10元终身买断。**\n2. **纯新手从零开始，任何基础可以学会利用AI赚美元。**\n3. **做到你看任何一篇文章即可回本，长期持续更新到至少过百篇，超值。**\n4. **订阅加微信：4005508 领取跨境出海相关秘籍资料包，提供微信群以及免费社群终身陪伴成长。**\n5. **每增加两万人涨价10元，抓紧订阅。**\n\n**郑重承诺，如果订阅此专栏觉得不值，提交相关证据，我们审核通过后，任何时候享受全额退款。**\n\n## 注册PayPal企业账号为跨境出海收款\n\n本篇PayPal注册教程注册的是PayPal企业账户，是跨境卖家绑定到Shopify或者WooCommerce等独立站后台用于接收客户付款的。它是我们独立站卖家必备的收款方式之一。\n\n**英国PayPal注册，同时领取10英镑奖励活动地址: www.paypal.com/uk/webapps/mpp/invite/terms**\n\n**当朋友加入 PayPal 并消费 5 英镑时，您可以获得 10 英镑。**\n\n## 美国公司银行账户：Mercury Bank\n\n水星银行账户申请美国公司注册完成之后，最近申请了Mercury Bank作为公司公户，这之前也研究过一些其他的银行，例如：Revolut, Relay Bank等，最终还是选择了水星银行。\n\n## 利用AI携程的搬砖项目，海外再来一次价格更高\n\n首先，什么是携程的AI搬砖项目，我这里找了一篇文章，大家了解下项目：携程旅游搬砖项目一、项目介绍对于刚进入短视频内容创作领域并想寻求友好平......\n\n## 通过Pawns获取被动收入，白拿的不香吗？\n\n在当今的数字时代，赚取被动收入变得更加容易和多样化。今天分享这种产生被动收入的一种有趣方法是使用Pawns.App等平台共享互联网带宽。本文探讨了如何利用未使用的带宽来赚钱、其背后......\n\n## 借助AI+亚马逊KDP，狂赚5000万美金\n\n在ChatGPT横空出世后一切皆有可能，仅仅几个月后双胞胎Christian 和 Rasmus Mikkelsen通过亚马逊的自出版业务KDP收入达到一百万美金。据S......\n\n## Youtube+AI 月入过万美元赚钱攻略\n\n2024年，如何创建⼀个低成本的Faceless不露脸频道2024年， Youtube是否还有赚钱机会？如果单从千次播放收益计算， Youtube的⼴告分成计划， 远超其他视频平台......\n\n## AI数据+Depin宽带共享，联网即可赚取被动收益\n\n**项目综述**\n- **成立时间**: 2023\n- **行业标签**: Crypto、大模型、人工智能、云计算\n- **Layer层级**: Layer2\n- **所在公链**: Solana\n- **项目阶段**: 已完成\n\n## Google Cloud通过Vertex AI获取150美元赠金，帐号可立即变现\n\nGoogle Cloud为了推行带 Gemini 1.5 Pro 和 Gemini 1.5 Flash 的 Vertex AI，新用户可享受300美刀赠金！其中15......\n\n## 利用AI在Google Books上“写书”，轻松月入几千美金\n\nGoogle Books是全球领先的电子图书平台，覆盖75个国家以及超过30亿读者。',
     content: '这里可以让完全没有任何基础的同学，无需学习额外任何知识，即可实现利用AI技术出海赚钱。',
     url: 'https://xiaobot.net/p/mediabuy?refer=b62e98f7-c8dd-4eda-9c6f-5f397e029644',
     imageUrl: 'https://static.xiaobot.net/paper/2024-04-28/115347/6ba0b154f27e595bb25b89d6a101a43e.png',
@@ -323,20 +324,20 @@ export const detailList: WebNavigationDetailData[] = [
     categoryName: 'Other',
   },
   {
-    name: 'chatgpt-mac',
-    title: 'ChatGPT for MacOS: Your AI Assistant for Enhanced Productivity',
+    name: 'huang-zhao-ai-daily-season-4',
+    title: '黄钊的AI日报·第四季',
     detail:
       "# ChatGPT for MacOS: Your AI Assistant for Enhanced Productivity\n## What is ChatGPT for MacOS?\n**ChatGPT for MacOS** is an AI-driven platform that provides a suite of advanced capabilities designed to assist with writing, learning, brainstorming, and more. It is free to use and easy to try, offering a wide range of functionalities to make your life more productive.\n\n## How to Use ChatGPT\nChatGPT can be used in various ways to enhance your productivity and creativity:\n**Writing Assistance**: ChatGPT helps with writing tasks, from drafting emails to creating content.\n**Learning and Studying**: It aids in studying vocabulary for exams or learning new subjects.\n**Brainstorming**: Use ChatGPT to generate ideas for projects or solve complex problems.\n**Daily Tasks**: Automate repetitive tasks and get assistance with daily chores.\n## Features of ChatGPT for MacOS\n**Voice Conversation**: Start a voice conversation by tapping the headphone icon in the mobile app.\n**Web Browsing**: ChatGPT can answer questions using information from the web.\n**Data Analysis**: Upload files and ask ChatGPT to analyze data or create charts.\n**Image Analysis**: Discuss images by taking or uploading them for analysis.\n## Pricing Plans\nChatGPT offers a free plan as well as a Plus subscription with additional benefits:\n**Free**:\nAssistance with writing, problem-solving, and more.\nAccess to GPT-3.5.\nLimited access to advanced features.\n**Plus**:\nEarly access to new features.\nAccess to GPT-4, GPT-4o, and GPT-3.5.\nUp to 5x more messages for GPT-4o.\nAccess to advanced data analysis, file uploads, vision, web browsing, and custom GPTs.\nDALL-E image generation.\nCreate and use custom GPTs.\nPricing Details:\nFree: US$0 /month\nPlus: US$20 /month\nCustomizing ChatGPT\nChatGPT can be customized for work, daily tasks, or inspiration. Explore the GPT store to see what others have made, and ChatGPT Plus users can create their own custom GPTs.\n\n## Privacy and Data\nYour privacy is our priority. We do not use your information for training data, and you can delete your account at any time to remove all your data.\n\n## Why Subscribe to ChatGPT?\nIf you find that the 20 free daily uses of GPT-4o do not meet your needs and you rely heavily on its capabilities, consider subscribing to our affordable plans for extended access and benefits.\n\n## Get Started with ChatGPT Today\nJoin the millions of users who are already benefiting from ChatGPT's advanced AI capabilities. Try ChatGPT now and experience the future of AI assistance.\n\n## How to download and use ChatGPT for MacOS?\nYou can download ChatGPT from the App Store. If you can't download, you can click here [Download ChatGPT for Mac](https://img.artiversehub.ai/ChatGPT_Desktop_public_latest.dmg). And if you have no permission, You can try to login first, use Command+Q to close the client and restart again.",
     content:
       "ChatGPT for MacOS: Your AI Assistant for Enhanced Productivity. It's releaseb by OpenAI and can be installed in the MacOS.",
-    url: 'https://apps.apple.com/us/app/chatgpt/id6448311069',
-    imageUrl: 'https://img.artiversehub.ai/2024/05/19/d4cec43d06f04c6b95aec4b9e9a117ce.png',
-    thumbnailUrl: 'https://img.artiversehub.ai/2024/05/19/800316e0dcb04269b381f82c58251307.png',
-    collectionTime: '2024-05-19 00:00:00',
-    tagName: 'Large Language Models (LLMs)',
+    url: 'https://xiaobot.net/p/ai04?refer=b62e98f7-c8dd-4eda-9c6f-5f397e029644',
+    imageUrl: 'https://static.xiaobot.net/paper/2024-06-02/38108/09778fb98b278062a874de2d0ccb1b3b.png',
+    thumbnailUrl: 'https://static.xiaobot.net/paper/2024-06-02/38108/09778fb98b278062a874de2d0ccb1b3b.png',
+    collectionTime: '2024-06-17 00:00:00',
+    tagName: 'AI',
     websiteData: '10000',
     starRating: 5,
-    categoryName: 'Productivity',
+    categoryName: 'AI Insights',
   },
   {
     name: 'undressing_ai',
