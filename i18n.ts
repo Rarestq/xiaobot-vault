@@ -37,11 +37,11 @@ export const languages = [
     lang: 'cn',
     label: '简体中文',
   },
-  {
-    code: 'zh-TW',
-    lang: 'tw',
-    label: '繁體中文',
-  },
+  // {
+  //   code: 'zh-TW',
+  //   lang: 'tw',
+  //   label: '繁體中文',
+  // },
   // {
   //   code: 'ja-JP',
   //   lang: 'jp',
