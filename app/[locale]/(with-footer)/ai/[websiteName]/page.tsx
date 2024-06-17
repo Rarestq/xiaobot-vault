@@ -25,7 +25,7 @@ export async function generateMetadata({
 }
 
 export default async function Page({ params: { websiteName } }: { params: { websiteName: string } }) {
-  const t = await getTranslations('Startup.detail');
+  // const t = await getTranslations('Startup.detail');
   const res = await getWebNavigationDetail(websiteName);
   const { data } = res;
 
@@ -45,7 +45,7 @@ export default async function Page({ params: { websiteName } }: { params: { webs
             rel='noreferrer'
             className='flex-center mt-5 min-h-5 w-full gap-1 rounded-[8px] bg-white p-[10px] text-sm capitalize text-black hover:opacity-80 lg:mt-auto lg:w-[288px]'
           >
-            {t('visitWebsite')} <CircleArrowRight className='size-[14px]' />
+            访问专栏 <CircleArrowRight className='size-[14px]' />
           </a>
         </div>
         <a
@@ -64,13 +64,13 @@ export default async function Page({ params: { websiteName } }: { params: { webs
             className='absolute mt-3 aspect-[466/234] w-full rounded-[16px] border border-[#424242] bg-[#424242] bg-cover lg:mt-0'
           />
           <div className='absolute inset-0 z-10 hidden items-center justify-center gap-1 rounded-[16px] bg-black bg-opacity-50 text-2xl text-white transition-all duration-200 group-hover:flex'>
-            {t('visitWebsite')} <CircleArrowRight className='size-5' />
+            访问专栏 <CircleArrowRight className='size-5' />
           </div>
         </a>
       </div>
       <Separator className='bg-[#010101]' />
       <div className='mb-5 px-3 lg:px-0'>
-        <h2 className='my-5 text-2xl text-white/40 lg:my-10'>{t('introduction')}</h2>
+        <h2 className='my-5 text-2xl text-white/40 lg:my-10'>专栏介绍</h2>
         <MarkdownProse markdown={data?.detail || ''} />
       </div>
     </div>
