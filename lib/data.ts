@@ -26,7 +26,7 @@ export type WebNavigationDetailData = {
 export const dataList: WebNavigationListRow[] = [
   {
     id: '1792434701288771585',
-    name: 'AI 海外赚钱',
+    name: 'ai-earnings-abroad',
     title: 'AI 海外赚钱，这里可以让完全没有任何基础的同学，无需学习额外任何知识，即可实现利用AI技术出海赚钱。',
     content:
       '静水流深，国外赚美元的奠基人，上个世纪就开始出海赚美元，雷军的师弟，如今投入AI领域，帮助大家利用AI技术，个体出海赚美元。1，原价9999元，现在限时只需要10元终身买断。2，纯新手从零开始，任何基础可以学会利用AI赚美元。3，做到你看任何一篇文章即可回本，长期持续更新到至少过百篇，超值。4，每增加两万人涨价10元，抓紧订阅。专栏作者郑重承诺，如果订阅此专栏觉得不值，提交相关证据，我们审核通过后，任何时候享受全额退款。',
@@ -293,18 +293,18 @@ export const detailList: WebNavigationDetailData[] = [
     categoryName: 'Other',
   },
   {
-    name: 'woy-ai',
-    title: 'Woy AI Tools Directory',
-    detail: '# Woy AI Tools Directory\nDiscover the top AI tools of 2024 with the Woy.ai AI Directory!',
-    content: 'Discover the top AI tools of 2024 with the Woy.ai AI Directory!',
-    url: 'https://woy.ai',
-    imageUrl: 'https://img.artiversehub.ai/2024/05/20/c5a29d0bd95f4788a592d363b3ee4117.png',
-    thumbnailUrl: 'https://img.artiversehub.ai/2024/05/20/7d246f5ac3d240a4bc03e6c01d68f845.png',
-    collectionTime: '2024-05-20 00:00:00',
-    tagName: 'Website',
+    name: 'ai-earnings-abroad',
+    title: 'AI 海外赚钱',
+    detail: '# AI 海外赚钱\n这里可以让完全没有任何基础的同学，无需学习额外任何知识，即可实现利用AI技术出海赚钱。',
+    content: '这里可以让完全没有任何基础的同学，无需学习额外任何知识，即可实现利用AI技术出海赚钱。',
+    url: 'https://xiaobot.net/p/mediabuy?refer=b62e98f7-c8dd-4eda-9c6f-5f397e029644',
+    imageUrl: 'https://static.xiaobot.net/paper/2024-04-28/115347/6ba0b154f27e595bb25b89d6a101a43e.png',
+    thumbnailUrl: 'https://static.xiaobot.net/paper/2024-04-28/115347/6ba0b154f27e595bb25b89d6a101a43e.png',
+    collectionTime: '2024-06-17 00:00:00',
+    tagName: 'Overseas Earnings',
     websiteData: '1000',
     starRating: 5,
-    categoryName: 'Other',
+    categoryName: 'AI AI Solutions',
   },
   {
     name: 'anime-girl-studio',
