@@ -17,18 +17,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'daily',
       priority: 1,
     },
-    {
-      url: 'submit',
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
-    {
-      url: 'startup',
-      lastModified: new Date(),
-      changeFrequency: 'daily',
-      priority: 0.8,
-    },
+    // {
+    //   url: 'submit',
+    //   lastModified: new Date(),
+    //   changeFrequency: 'monthly',
+    //   priority: 0.8,
+    // },
+    // {
+    //   url: 'startup',
+    //   lastModified: new Date(),
+    //   changeFrequency: 'daily',
+    //   priority: 0.8,
+    // },
   ];
 
   const sitemapData = sitemapRoutes.flatMap((route) =>

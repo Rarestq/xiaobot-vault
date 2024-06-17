@@ -58,14 +58,6 @@ export default function Faq() {
           <TitleItem>{t('9.question')}</TitleItem>
           <ContentItem>{t('9.answer')}</ContentItem>
         </div>
-        <div>
-          <TitleItem>{t('10.question')}</TitleItem>
-          <ContentItem>{t('10.answer')}</ContentItem>
-        </div>
-        <div>
-          <TitleItem>{t('11.question')}</TitleItem>
-          <ContentItem>{t('11.answer')}</ContentItem>
-        </div>
       </div>
     </div>
   );
