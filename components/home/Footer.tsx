@@ -33,7 +33,7 @@ export default function Footer() {
 
   const SupportLinks = [
     {
-      title: t('小报童Vault'),
+      title: '小报童Vault',
       href: 'https://xiaobotvault.top',
     },
   ];
